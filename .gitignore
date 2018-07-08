@@ -328,3 +328,4 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
 AWSDynamoDBRepository/Properties/launchSettings.json
+AzureCosmosDBRepository/Config/CosmosDBCredentials.cs
